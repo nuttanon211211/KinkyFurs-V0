@@ -1,5 +1,5 @@
 # KinkyFurs-V0
-Kinky furry assitant based on GPT2
+Kinky furry assistant based on GPT2
 
 ------------------------------
 
