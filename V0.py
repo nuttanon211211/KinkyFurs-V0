@@ -1,11 +1,9 @@
-from transformers import pipeline , AutoTokenizer
+from transformers import pipeline
 import os
 from flask import send_from_directory
 from flask import Flask , request
 
-
-tokenizer = AutoTokenizer.from_pretrained('gpt2')
-text_generation = pipeline('text-generation' , model='model/',tokenizer = tokenizer)
+text_generation = pipeline('text-generation' , model='sparki/kinkyfurs-gpt2')
 
 def stripEnd(sen):
     if "." in sen:
