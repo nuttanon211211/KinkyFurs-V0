@@ -1,7 +1,0 @@
-# 3 epochs
-# train-data:
-   size:
-     - 1.3 MB
-     
-   - no-identity (of the AI)
-
