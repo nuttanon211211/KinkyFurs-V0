@@ -3,11 +3,12 @@ Kinky furry assistant based on GPT2
 
 ------------------------------
 
-How to run
+How to run<br>
+python version 3.x
       
-      python3 V0.py
+      python furs.py       
 then,  
-open web browser and go to localhost:8080
+open web browser and go to localhost:8080 (or 127.0.0.1:8080)
       
 ------------------------------
 
