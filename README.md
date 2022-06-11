@@ -11,6 +11,11 @@ open web browser and go to localhost:8080
       
 ------------------------------
 
+### Encounter error?:
+Install requirements (transformers, flask)
+
+------------------------------
+
 Requirements:
 - Flask
 - transformers
