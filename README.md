@@ -1,5 +1,8 @@
 # KinkyFurs-V0
 Kinky furry assistant based on GPT2
+                                    
+![alt text](https://raw.githubusercontent.com/nuttanon211211/KinkyFurs-V0/main/screenshot.png)
+                                             
 
 ------------------------------
 
